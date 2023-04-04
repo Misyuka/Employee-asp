@@ -1,0 +1,48 @@
+﻿@model Employee.Models.Account.DMMRegisterViewModel
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Department Register";
+}
+
+<div class="header">
+    <div class="page-title">@ViewData["Title"]</div>
+</div>
+<div class="form-container">
+	<form method="post" asp-action="DMManagerRegister">
+		<div asp-validation-summary="All" class="text-danger"></div>
+		<div class="form-group">
+			<label asp-for="UserName"></label>
+			<input asp-for="UserName" class="input" />
+			<span asp-validation-for="UserName" class="text-danger"></span>
+		</div>
+
+		<div class="form-group">
+			<label asp-for="Email"></label>
+			<input asp-for="Email" class="input" />
+			<span asp-validation-for="Email" class="text-danger"></span>
+		</div>
+
+		<div class="form-group">
+			<label asp-for="Password"></label>
+			<input asp-for="Password" class="input" />
+			<span asp-validation-for="Password" class="text-danger"></span>
+		</div>
+
+		<div class="form-group">
+			<label asp-for="ConfirmPassword"></label>
+			<input asp-for="ConfirmPassword" class="input" />
+			<span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+		</div>
+
+		<div class="form-group">
+			<label asp-for="DM"></label>
+			<input asp-for="DM" class="input" />
+			<span asp-validation-for="DM" class="text-danger"></span>
+		</div>
+		<button type="submit" class="btn primary">Register</button>
+	</form>
+</div>

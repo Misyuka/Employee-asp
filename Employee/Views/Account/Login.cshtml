@@ -1,0 +1,25 @@
+﻿@model Employee.Models.Account.LoginViewModel
+@{
+	ViewData["Title"] = "Login";
+}
+
+
+
+
+<div class="title">Login Page</div>
+<form method="post">
+	<div asp-validation-summary="All" class="text-danger"></div>
+	<div class="form-group">
+		<label asp-for="Email"></label>
+		<input asp-for="Email" class="input" />
+		<span asp-validation-for="Email" class="text-danger"></span>
+	</div>
+
+	<div class="form-group">
+		<label asp-for="Password"></label>
+		<input asp-for="Password" class="input" />
+		<span asp-validation-for="Password" class="text-danger"></span>
+	</div>
+	<button type="submit" class="btn primary">Login</button>
+</form>
+			

@@ -1,0 +1,99 @@
+﻿@model Employee.Models.ManagerViewModel
+
+@{
+    Layout = "_Manager";
+}
+
+@{
+    ViewData["Title"] = "Attendance Info";
+}
+<div class="page-title">@ViewData["Title"]</div>
+
+<div class="table-container">
+    <table class="infoTable">
+        <thead>
+            <tr>
+                <th>Employees</th>
+                @foreach(var day in Model.days)
+                {
+                    <th>@day</th>
+                }
+            </tr>
+        </thead>
+        <tbody id="infoTable">
+            @{var i = 1;}
+            @foreach(var employee in Model.employees)
+            {
+                var k = 3;
+                <tr>
+                    <td>@employee</td>
+                @foreach(var day in Model.days)
+                {
+                    var state = false;
+                    var info = "A";
+                    var id = 0;
+                    var split = day.ToString().Split('.');
+                    var date = new DateTime(Convert.ToInt32(split[2]), Convert.ToInt32(split[1]), Convert.ToInt32(split[0]));
+                    if (date.DayOfWeek == DayOfWeek.Saturday || date.DayOfWeek == DayOfWeek.Sunday)
+                    {
+                            <td class="W"></td>
+                    }
+                    else
+                    {
+                        @foreach(var history in Model.HistoryInfo)
+                        {
+                            if(employee.ToString() == history.Employee.ToString() && day.ToString() == history.Date.ToString())
+                            {
+                                state = true;
+                                info = history.State;
+                                id = history.Id;
+                            }
+                        }
+                        if(state == true)
+                        {
+                            <td class="@info" onmousedown="showInfoModal('@id', '@day', '@employee', '@info', '@i', '@k')">@info</td>
+                        } else
+                        {
+                            <td class="@info" onmousedown="showInfoModal('@id', '@day', '@employee', '@info', '@i', '@k')"></td>
+                        }
+                    }
+                        { k++; }
+                }
+                </tr>
+                { i++; }
+            }
+        </tbody>
+    </table>
+</div>
+
+
+<script>
+    var g_state = false;
+    function showInfoModal(id, date, employee, info, line, number) {
+        var _line = parseInt(line) * 2 - 1;
+        var _number = parseInt(number - 1) * 2 - 1;
+        if (document.getElementById("background").classList.contains("none")) {
+            g_state = true;
+            sessionStorage.setItem("line", line)
+            sessionStorage.setItem("_line", _line)
+            sessionStorage.setItem("number", number)
+            sessionStorage.setItem("_number", _number)
+            sessionStorage.setItem("id", id)
+            sessionStorage.setItem("date", date)
+            sessionStorage.setItem("employee", employee)
+            sessionStorage.setItem("info", info)
+
+        } else {
+            g_state = false;
+        }
+    }
+
+    window.addEventListener("mouseup", function (e) {
+        if (document.getElementById("background").classList.contains("none") && g_state == true) {
+            document.getElementById("change_info_model").style.left = `${e.x}px`;
+            document.getElementById("change_info_model").style.top = `${e.y}px`;
+            document.getElementById("change_info_model").classList.replace("none", "flex");
+            document.getElementById("background").classList.replace("none", "flex");
+        }
+    });
+</script>

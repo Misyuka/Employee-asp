@@ -1,0 +1,98 @@
+.control-panel[b-myaos72j19] {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.select-dm[b-myaos72j19] {
+    cursor: pointer;
+    width: 130px;
+    height: 35px;
+    padding-left: 10px;
+}
+
+.date-picker[b-myaos72j19] {
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+    padding-left: 10px;
+}
+
+.export[b-myaos72j19] {
+    width: 120px;
+    height: 37px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.table-container[b-myaos72j19] {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table[b-myaos72j19],
+th[b-myaos72j19],
+td[b-myaos72j19] {
+    border: 1px solid #eeee;
+    border-collapse: collapse;
+}
+
+table[b-myaos72j19] {
+    font-family: arial, sans-serif;
+    min-width: 1000px;
+    width: 100%;
+}
+
+thead > tr > th[b-myaos72j19] {
+    border: none !important;
+}
+
+tr > td:first-child[b-myaos72j19] {
+    min-width: 150px;
+    max-width: 200px;
+    background-color: #bdd7ee;
+}
+
+tr > th:first-child[b-myaos72j19] {
+    background-color: #bdd7ee;
+}
+
+tr > td:last-child[b-myaos72j19] {
+    min-width: 50px;
+    max-width: 70px;
+    background-color: #bdd7ee;
+}
+
+tr > th:last-child[b-myaos72j19] {
+    background-color: #bdd7ee;
+}
+
+tr > th:not(:nth-child(1), :last-child)[b-myaos72j19] {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-weight: 300;
+}
+
+tr > td:not(:nth-child(1), :last-child):hover[b-myaos72j19] {
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+th[b-myaos72j19] {
+    text-align: center;
+    padding: 8px;
+    background-color: #ffe699;
+}
+
+td[b-myaos72j19] {
+    text-align: center;
+    padding: 8px;
+}
+
+i[b-myaos72j19] {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+i:hover[b-myaos72j19] {
+    color: #34a853;
+}
+

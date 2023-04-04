@@ -1,0 +1,54 @@
+table[b-up1tp5o2e4],
+th[b-up1tp5o2e4],
+td[b-up1tp5o2e4] {
+    border: 1px solid #eeee;
+    border-collapse: collapse;
+}
+
+table[b-up1tp5o2e4] {
+    font-family: arial, sans-serif;
+    width: 100%;
+}
+
+tr > td:first-child[b-up1tp5o2e4] {
+    width: 20px;
+    background-color: #bdd7ee;
+}
+
+tr > th:first-child[b-up1tp5o2e4] {
+    background-color: #bdd7ee;
+}
+
+th[b-up1tp5o2e4] {
+    text-align: center;
+    padding: 8px;
+    background-color: #ffe699;
+}
+
+td[b-up1tp5o2e4] {
+    text-align: center;
+    padding: 8px;
+}
+
+.header[b-up1tp5o2e4] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.m-r[b-up1tp5o2e4] {
+    margin-right: 10px;
+}
+
+i[b-up1tp5o2e4] {
+    font-size: 20px;
+}
+
+.fa-edit:hover[b-up1tp5o2e4] {
+    cursor: pointer;
+    color: #039c2c;
+}
+
+.fa-trash:hover[b-up1tp5o2e4] {
+    cursor: pointer;
+    color: #ee2917;
+}

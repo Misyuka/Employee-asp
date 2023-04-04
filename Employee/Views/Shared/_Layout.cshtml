@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Employee.styles.css" asp-append-version="true" />
+</head>
+<lllbody>
+    <header>
+        <div class="page-container">
+            <div class="navbar">
+                <div class="logo-field">
+                    <img class="logo" src="~/img/apple.png" />
+                </div>
+                <a class="btn danger" href="@Url.Action("Logout", "Account")">Logout</a>
+            </div>
+            <div class="page-body">
+                <div class="sidebar">
+                    <a class="item" href="@Url.Action("Index", "Home")">Attendance Info</a>
+                    <a class="item" href="@Url.Action("Department", "Home")">Depertments</a>
+                    <a class="item" href="@Url.Action("DMManager", "Home")">DM Manager</a>
+                    <a class="item" href="@Url.Action("Employee", "Home")">Employee</a>
+                </div>
+                <div class="panel">
+                    @RenderBody()
+                </div>
+            </div>
+            <div class="change-info-modal none" id="change_info_model">
+                <div onclick="changeInfo('H')" class="H">Holiday</div>
+                <div onclick="changeInfo('S')"  class="S">Sick</div>
+                <div onclick="changeInfo('A')" class="A">Attendance</div>
+            </div>
+            <div onclick="hideModal()" class="background none" id="background"></div>
+        </div>
+    </header>
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+    <script src="~/js/download.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        function changeInfo(state) {
+            var line = sessionStorage.getItem("line");
+            var number = sessionStorage.getItem("number");
+            var _number = sessionStorage.getItem("_number");
+            var _line = sessionStorage.getItem("_line");
+            var id = sessionStorage.getItem("id");
+            var date = sessionStorage.getItem("date");
+            var employee = sessionStorage.getItem("employee");
+            var info = sessionStorage.getItem("info");
+            if(state == "A") {
+                document.getElementById("infoTable").childNodes[_line].childNodes[_number].outerHTML = `<td b-myaos72j19 class='${state}' onmousedown="showInfoModal('${id}', '${date}', '${employee}', '${state}', '${line}', '${number}')"></td>`;
+            } else {
+                document.getElementById("infoTable").childNodes[_line].childNodes[_number].outerHTML = `<td b-myaos72j19 class='${state}' onmousedown="showInfoModal('${id}', '${date}', '${employee}', '${state}', '${line}', '${number}')">${state}</td>`;
+            }
+            document.getElementById("change_info_model").classList.replace("flex", "none");
+            document.getElementById("background").classList.replace("flex", "none");
+            g_state = false;
+            UpdateHistory(id, date, employee, info, state);
+        }
+        function hideModal() {
+            if (document.getElementById("background").classList.contains("flex")) {
+                document.getElementById("background").classList.replace("flex", "none")
+            }
+            if (document.getElementById("change_info_model").classList.contains("flex")) {
+                document.getElementById("change_info_model").classList.replace("flex", "none");
+                g_state = false;
+            }
+            if (document.getElementById("department_model").classList.contains("flex")) {
+                document.getElementById("department_model").classList.replace("flex", "none")
+            }
+            if (document.getElementById("manager_model").classList.contains("flex")) {
+                document.getElementById("manager_model").classList.replace("flex", "none")
+            }
+            if (document.getElementById("employee_model").classList.contains("flex")) {
+                document.getElementById("employee_model").classList.replace("flex", "none")
+            }
+        }
+        function UpdateHistory(id, date, employee, info, state) {
+            
+            var dm = $("#department").val();
+            var creatForm = new FormData();
+            creatForm.append("date", date);
+            creatForm.append("employee", employee);
+            creatForm.append("dm", dm);
+            creatForm.append("state", state);
+            var updateForm = new FormData();
+            updateForm.append("id", id);
+            updateForm.append("state", state);
+            var deleteForm = new FormData();
+            deleteForm.append("id", id);
+
+            if(info != state && info == "A") {
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("CreateHistory", "Home")',
+                    contentType: false,
+                    processData: false,
+                    cache: false,
+                    data: creatForm,
+                    success: function (response) {
+
+                    }
+                })
+            } else if(state == "A"){
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("DeleteHistory", "Home")',
+                    contentType: false,
+                    processData: false,
+                    cache: false,
+                    data: deleteForm,
+                    success: function (response) {
+
+                    }
+                })
+            } else {
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("UpdateHistory", "Home")',
+                    contentType: false,
+                    processData: false,
+                    cache: false,
+                    data: updateForm,
+                    success: function (response) {
+
+                    }
+                })
+            }
+        }
+    </script>
+</lllbody>
+</html>

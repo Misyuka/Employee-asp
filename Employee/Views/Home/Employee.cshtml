@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Employee.Data.EmployeeInfo>
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Employee";
+}
+
+<div class="header">
+    <div class="page-title">@ViewData["Title"]</div>
+    <a class="btn primary" href="@Url.Action("EmployeeRegister", "Home")"><i class="fa fa-plus m-r"></i>Add</a>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody id="employeeData">
+        @{
+            var i = 1;
+        }
+        @foreach (var element in Model)
+        {
+            <tr>
+                <td>@i</td>
+                <td>@element.Name</td>
+                <td>@element.DM</td>
+                <td><i onclick="editable('@element.Id', '@element.Name', '@element.DM', '@i')" class='fa fa-edit m-r'></i><i onclick="deleteEmployee(@element.Id)" class="fa fa-trash"></i></td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>
+<script>
+    function editable(id, name, dm, i) {
+        var j = parseInt(i) * 2 - 1;
+        document.getElementById("employeeData").childNodes[j].innerHTML = `<td b-bxqnkc617j>${i}</td>
+                                                                                                                                <td b-bxqnkc617j><input value="${name}" id="name"/></td>
+                                                                                                                                    <td b-bxqnkc617j><input type="number" value="${dm}" id="dm"/></td>
+                                                                                                                                            <td b-bxqnkc617j><i b-bxqnkc617ji onclick="editEmployee('${id}')" class="fa fa-check cursor m-r"></i><i b-bxqnkc617j onclick="cancel('${id}', '${name}', '${dm}', '${i}')" class="fa fa-times cursor"></i></td>`
+    }
+
+    function editEmployee(id) {
+        var name = $("#name").val();
+        var dm = $("#dm").val();
+        var formData = new FormData();
+        formData.append("id", id);
+        formData.append("name", name);
+        formData.append("dm", dm);
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("EditEmployee", "Home")',
+            contentType: false,
+            processData: false,
+            cache: false,
+            data: formData,
+            success: function (response) {
+                window.location.reload();
+            }
+        })
+    }
+
+    function cancel(id, name, dm, i) {
+        var j = parseInt(i) * 2 - 1;
+        document.getElementById("employeeData").childNodes[j].innerHTML = `<td b-bxqnkc617j>${i}</td>
+                                                                                                                                            <td b-bxqnkc617j>${name}</td>
+                                                                                                                                                <td b-bxqnkc617j>${dm}</td>
+                                                                                                                                                        <td b-bxqnkc617j><i b-bxqnkc617j onclick="editable('${id}', '${name}', '${dm}', '${i}')" class='fa fa-edit m-r'></i><i b-bxqnkc617j onclick="deleteEmployee(${id})" class="fa fa-trash"></i></td>`
+    }
+
+    function deleteEmployee(id) {
+        var formData = new FormData();
+        formData.append("id", id)
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("DeleteEmployee", "Home")',
+            contentType: false,
+            processData: false,
+            cache: false,
+            data: formData,
+            success: function (response) {
+                window.location.reload();
+            }
+        })
+    }
+</script>

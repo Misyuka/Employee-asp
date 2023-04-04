@@ -1,0 +1,103 @@
+﻿@model IEnumerable<Employee.Data.Department>
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Department";
+}
+
+<div class="header">
+    <div class="page-title">@ViewData["Title"]</div>
+    <a class="btn primary" href="@Url.Action("DepartmentRegister", "Home")"><i class="fa fa-plus m-r"></i>Add</a>
+</div>
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>Department</th>
+            <th>Manager</th>
+            <th>State</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody id="departmentData">
+        @{
+            var i = 1;
+        }
+        @foreach(var element in Model)
+        {
+            <tr>
+                <td>@i</td>
+                <td>@element.Number</td>
+                <td>@element.Manager</td>
+                <td>@element.State</td>
+                <td><i onclick="editable('@element.Number', '@element.Manager', '@element.State', '@i')" class='fa fa-edit m-r'></i><i onclick="deleteDM(@element.Number)" class="fa fa-trash"></i></td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>
+
+
+<script>
+    function editable(number, manager, state, i) {
+        var j = parseInt(i)* 2 - 1;
+        document.getElementById("departmentData").childNodes[j].innerHTML = `<td b-bxqnkc617j>${i}</td>
+                                                                                                                                    <td b-bxqnkc617j><input type="number" value="${number}" id="number"/></td>
+                                                                                                                                        <td b-bxqnkc617j><input value="${manager}" id="manager"/></td>
+                                                                                                                                            <td b-bxqnkc617j><select id="state"><option value="Enable">Enable</option><option value="Disable">Disable</option></select></td>
+                                                                                                                                                <td b-bxqnkc617j><i b-bxqnkc617ji onclick="editDM()" class="fa fa-check cursor m-r"></i><i b-bxqnkc617j onclick="cancel('${number}', '${manager}', '${state}', '${i}')" class="fa fa-times cursor"></i></td>`
+        $("#state").val(state);
+    }
+
+    function editDM() {
+        var number = $("#number").val();
+        var manager = $("#manager").val();
+        var state = $("#state").val();
+        var formData = new FormData();
+        formData.append("number", number);
+        formData.append("manager", manager);
+        formData.append("state", state);
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("EditDM", "Home")',
+            contentType: false,
+            processData: false,
+            cache: false,
+            data: formData,
+            success: function (response) {
+                window.location.reload();
+            }
+        })
+    }
+
+    function cancel(number, manager, state, i) {
+        var j = parseInt(i) * 2 - 1;
+        document.getElementById("departmentData").childNodes[j].innerHTML = `<td b-bxqnkc617j>${i}</td>
+                                                                                                                                    <td b-bxqnkc617j>${number}</td>
+                                                                                                                                        <td b-bxqnkc617j>${manager}</td>
+                                                                                                                                            <td b-bxqnkc617j>${state}</td>
+                                                                                                                                                <td b-bxqnkc617j><i b-bxqnkc617j onclick="editable('${number}', '${manager}', '${state}', '${i}')" class='fa fa-edit m-r'></i><i b-bxqnkc617j onclick="deleteDM(${number})" class="fa fa-trash"></i></td>`
+    }
+
+    function deleteDM(number) {
+        var formData = new FormData();
+        formData.append("number", number)
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("DeleteDM", "Home")',
+            contentType: false,
+            processData: false,
+            cache: false,
+            data: formData,
+            success: function (response) {
+                window.location.reload();
+            }
+        })
+    }
+</script>

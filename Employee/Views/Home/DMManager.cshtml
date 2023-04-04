@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Employee.Data.ApplicationUser>
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Department Manager";
+}
+
+<div class="header">
+    <div class="page-title">@ViewData["Title"]</div>
+    <a class="btn primary" href="@Url.Action("DMManagerRegister", "Home")"><i class="fa fa-plus m-r"></i>Add</a>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody id="managerData">
+        @{
+            var i = 1;
+        }
+        @foreach (var element in Model)
+        {
+            <tr>
+                <td>@i</td>
+                <td>@element.Email</td>
+                <td>@element.DM</td>
+                <td><i onclick="editable('@element.Id', '@element.Email', '@element.DM', '@i')" class='fa fa-edit m-r'></i><i onclick="deleteManager('@element.Id')" class="fa fa-trash"></i></td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>
+<script>
+    function editable(id, username, dm, i) {
+        var j = parseInt(i) * 2 - 1;
+        document.getElementById("managerData").childNodes[j].innerHTML = `<td b-bxqnkc617j>${i}</td>
+                                                                                                                                        <td b-bxqnkc617j><input value="${username}" id="username"/></td>
+                                                                                                                                            <td b-bxqnkc617j><input type="number" value="${dm}" id="dm"/></td>
+                                                                                                                                                    <td b-bxqnkc617j><i b-bxqnkc617ji onclick="editManager('${id}')" class="fa fa-check cursor m-r"></i><i b-bxqnkc617j onclick="cancel('${id}', '${username}', '${dm}', '${i}')" class="fa fa-times cursor"></i></td>`
+    }
+
+    function editManager(id) {
+        var username = $("#username").val();
+        var dm = $("#dm").val();
+        var formData = new FormData();
+        formData.append("id", id);
+        formData.append("username", username);
+        formData.append("dm", dm);
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("EditManager", "Home")',
+            contentType: false,
+            processData: false,
+            cache: false,
+            data: formData,
+            success: function (response) {
+                window.location.reload();
+            }
+        })
+    }
+
+    function cancel(id, username, dm, i) {
+        var j = parseInt(i) * 2 - 1;
+        document.getElementById("managerData").childNodes[j].innerHTML = `<td b-bxqnkc617j>${i}</td>
+                                                                                                                                        <td b-bxqnkc617j>${username}</td>
+                                                                                                                                            <td b-bxqnkc617j>${dm}</td>
+                                                                                                                                                        <td b-bxqnkc617j><i b-bxqnkc617j onclick="editable('${id}', '${username}', '${dm}', '${i}')" class='fa fa-edit m-r'></i><i b-bxqnkc617j onclick="deleteManager('${id}')" class="fa fa-trash"></i></td>`
+    }
+
+    function deleteManager(id) {
+        var formData = new FormData();
+        formData.append("id", id)
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("DeleteManager", "Home")',
+            contentType: false,
+            processData: false,
+            cache: false,
+            data: formData,
+            success: function (response) {
+                window.location.reload();
+            }
+        })
+    }
+</script>
+

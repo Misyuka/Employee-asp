@@ -1,0 +1,1162 @@
+E:\Working\Employee\Employee\bin\Debug\net7.0\appsettings.Development.json
+E:\Working\Employee\Employee\bin\Debug\net7.0\appsettings.json
+E:\Working\Employee\Employee\bin\Debug\net7.0\Employee.staticwebassets.runtime.json
+E:\Working\Employee\Employee\bin\Debug\net7.0\Employee.exe
+E:\Working\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\Working\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\Working\Employee\Employee\bin\Debug\net7.0\Employee.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+E:\Working\Employee\Employee\bin\Debug\net7.0\Azure.Core.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Azure.Identity.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Humanizer.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\System.CodeDom.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cs
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cache
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cache
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cs
+E:\Working\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Working\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.props
+E:\Working\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.props
+E:\Working\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.props
+E:\Working\Employee\Employee\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Working\Employee\Employee\obj\Debug\net7.0\staticwebassets.build.json
+E:\Working\Employee\Employee\obj\Debug\net7.0\staticwebassets.development.json
+E:\Working\Employee\Employee\obj\Debug\net7.0\scopedcss\bundle\Employee.styles.css
+E:\Working\Employee\Employee\obj\Debug\net7.0\scopedcss\projectbundle\Employee.bundle.scp.css
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CopyComplete
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.dll
+E:\Working\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+E:\Working\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\Working\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\appsettings.Development.json
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\appsettings.json
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Employee.staticwebassets.runtime.json
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Employee.exe
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Employee.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Azure.Core.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Azure.Identity.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Humanizer.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\System.CodeDom.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\New folder\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cs
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cache
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cache
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cs
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.props
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.props
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.props
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\staticwebassets.build.json
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\staticwebassets.development.json
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\scopedcss\bundle\Employee.styles.css
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\scopedcss\projectbundle\Employee.bundle.scp.css
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CopyComplete
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.dll
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\Working\New folder\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\appsettings.Development.json
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\appsettings.json
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Employee.staticwebassets.runtime.json
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Employee.exe
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Employee.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Azure.Core.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Azure.Identity.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Humanizer.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\System.CodeDom.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cs
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cache
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cache
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cs
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.props
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.props
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.props
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets.build.json
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets.development.json
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\bundle\Employee.styles.css
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\projectbundle\Employee.bundle.scp.css
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CopyComplete
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\Working\New folder (2) - Copy\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\appsettings.Development.json
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\appsettings.json
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Employee.staticwebassets.runtime.json
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Employee.exe
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Employee.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Azure.Core.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Azure.Identity.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Humanizer.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\System.CodeDom.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\Copy Employee\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cs
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cache
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cache
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cs
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.props
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.props
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.props
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\staticwebassets.build.json
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\staticwebassets.development.json
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\scopedcss\bundle\Employee.styles.css
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\scopedcss\projectbundle\Employee.bundle.scp.css
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CopyComplete
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.dll
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\Working\Copy Employee\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll
+E:\Working\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+E:\Working\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Departments.cshtml.rz.scp.css
+E:\Working\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\DM_Employee.cshtml.rz.scp.css
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.barcodes.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.forms.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.io.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.kernel.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.layout.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.pdfa.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.sign.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.styledxmlparser.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.svg.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.commons.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\itext.html2pdf.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Working\Employee\Employee\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\appsettings.Development.json
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\appsettings.json
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Employee.staticwebassets.runtime.json
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Employee.exe
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Employee.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Azure.Core.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Azure.Identity.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Humanizer.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.barcodes.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.forms.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.io.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.kernel.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.layout.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.pdfa.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.sign.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.styledxmlparser.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.svg.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.commons.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\itext.html2pdf.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\System.CodeDom.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\New folder - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cs
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cache
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cache
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cs
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.props
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.props
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.props
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets.build.json
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets.development.json
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Departments.cshtml.rz.scp.css
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\DM_Employee.cshtml.rz.scp.css
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\bundle\Employee.styles.css
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\projectbundle\Employee.bundle.scp.css
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CopyComplete
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.dll
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\Working\New folder - Copy\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\appsettings.Development.json
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\appsettings.json
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Employee.staticwebassets.runtime.json
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Employee.exe
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Employee.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Azure.Core.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Azure.Identity.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Humanizer.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.barcodes.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.forms.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.io.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.kernel.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.layout.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.pdfa.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.sign.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.styledxmlparser.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.svg.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.commons.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\itext.html2pdf.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\System.CodeDom.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cs
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cache
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cache
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cs
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.props
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.props
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.props
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets.build.json
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\staticwebassets.development.json
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Departments.cshtml.rz.scp.css
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\DM_Employee.cshtml.rz.scp.css
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\bundle\Employee.styles.css
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\scopedcss\projectbundle\Employee.bundle.scp.css
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CopyComplete
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\Working\New folder - Copy - Copy\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\appsettings.Development.json
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\appsettings.json
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Employee.staticwebassets.runtime.json
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Employee.exe
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Employee.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Azure.Core.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Azure.Identity.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Humanizer.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.barcodes.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.forms.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.io.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.kernel.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.layout.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.pdfa.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.sign.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.styledxmlparser.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.svg.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.commons.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\itext.html2pdf.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.CodeDom.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cs
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cache
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cache
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cs
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.props
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.props
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.props
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\staticwebassets.build.json
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\staticwebassets.development.json
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\scopedcss\bundle\Employee.styles.css
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\scopedcss\projectbundle\Employee.bundle.scp.css
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CopyComplete
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.dll
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Department.cshtml.rz.scp.css
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\DMManager.cshtml.rz.scp.css
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Employee.cshtml.rz.scp.css
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Build.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\NuGet.Common.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\1\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Working\1\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Manager\Index.cshtml.rz.scp.css
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\appsettings.Development.json
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\appsettings.json
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Employee.staticwebassets.runtime.json
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Employee.exe
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Employee.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Employee.pdb
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Azure.Core.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Azure.Identity.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Humanizer.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.barcodes.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.forms.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.io.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.kernel.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.layout.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.pdfa.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.sign.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.styledxmlparser.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.svg.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.commons.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\itext.html2pdf.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Build.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\NuGet.Common.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.CodeDom.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Completed Projects\Employee\Employee\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cs
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.MvcApplicationPartsAssemblyInfo.cache
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cache
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.RazorAssemblyInfo.cs
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.props
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.props
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.props
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\staticwebassets.build.json
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\staticwebassets.development.json
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Department.cshtml.rz.scp.css
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\DMManager.cshtml.rz.scp.css
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Employee.cshtml.rz.scp.css
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\scopedcss\Views\Manager\Index.cshtml.rz.scp.css
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\scopedcss\bundle\Employee.styles.css
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\scopedcss\projectbundle\Employee.bundle.scp.css
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.csproj.CopyComplete
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.dll
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.pdb
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\Completed Projects\Employee\Employee\obj\Debug\net7.0\ref\Employee.dll

@@ -1,0 +1,54 @@
+﻿table,
+th,
+td {
+    border: 1px solid #eeee;
+    border-collapse: collapse;
+}
+
+table {
+    font-family: arial, sans-serif;
+    width: 100%;
+}
+
+tr > td:first-child {
+    width: 20px;
+    background-color: #bdd7ee;
+}
+
+tr > th:first-child {
+    background-color: #bdd7ee;
+}
+
+th {
+    text-align: center;
+    padding: 8px;
+    background-color: #ffe699;
+}
+
+td {
+    text-align: center;
+    padding: 8px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.m-r {
+    margin-right: 10px;
+}
+
+i {
+    font-size: 20px;
+}
+
+.fa-edit:hover {
+    cursor: pointer;
+    color: #039c2c;
+}
+
+.fa-trash:hover {
+    cursor: pointer;
+    color: #ee2917;
+}

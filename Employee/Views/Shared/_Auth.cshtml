@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Employee</title>
+    <link rel="stylesheet" href="~/css/auth.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Employee.styles.css" asp-append-version="true" />
+</head>
+<lllbody>
+    <header>
+        <div class="page-container">
+            <div class="navbar">
+                <div class="logo-field">
+                    <img class="logo" src="~/img/Apple.png" />
+                </div>
+            </div>
+            <div class="auth-body">
+                <div class="card">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</lllbody>
+</html>
